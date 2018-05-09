@@ -1,8 +1,8 @@
-package com.kdp.java;
+package com.github.jitpack;
 
 public class Greeting {
 
-      public string greet (String name){
+      public String greet (String name){
       return "Hellno "+ name + "!!!";
       }
 }

@@ -1,4 +1,4 @@
-# example 1.2.3
+# example 1.2.3 Attiq
 
 Example Maven project generated using `maven-archetype-quickstart`
 
